@@ -1,0 +1,12 @@
+[submodule "make"]
+	path = make
+	url = ../c-projects-makefile
+[submodule "src/range"]
+	path = src/range
+	url = ../submodule-range
+[submodule "src/window"]
+	path = src/window
+	url = ../submodule-window
+[submodule "src/table"]
+	path = src/table
+	url = ../submodule-table
