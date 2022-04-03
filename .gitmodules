@@ -10,3 +10,9 @@
 [submodule "src/table"]
 	path = src/table
 	url = ../submodule-table
+[submodule "src/log"]
+	path = src/log
+	url = ../sumbodule-log
+[submodule "src/keyargs"]
+	path = src/keyargs
+	url = ../submodule-keyargs
