@@ -12,7 +12,7 @@
 	url = ../submodule-table
 [submodule "src/log"]
 	path = src/log
-	url = ../sumbodule-log
+	url = ../submodule-log
 [submodule "src/keyargs"]
 	path = src/keyargs
 	url = ../submodule-keyargs
